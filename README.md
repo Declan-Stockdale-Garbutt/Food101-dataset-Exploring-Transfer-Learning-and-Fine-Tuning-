@@ -64,10 +64,11 @@ It can be seen that more unfrozen layers results in more trainable  parameters w
  
 ![image](https://user-images.githubusercontent.com/53500810/206885014-aa87a972-94db-4eed-bfe2-49287a52b055.png)
 
-![image](https://user-images.githubusercontent.com/53500810/206885030-55bc6068-d51f-43ab-af9d-6d9f855716c8.png)
+![image](https://user-images.githubusercontent.com/53500810/206885089-991f1541-b949-4305-a8f6-69057368cbca.png)
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/53500810/206885093-10459d16-56b3-4755-b676-2af71cb552d2.png)
+
 
 
 ### Conclusion 
