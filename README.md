@@ -66,6 +66,10 @@ It can be seen that more unfrozen layers results in more trainable  parameters w
 
 ![image](https://user-images.githubusercontent.com/53500810/206885030-55bc6068-d51f-43ab-af9d-6d9f855716c8.png)
 
+
+![Uploading image.png…]()
+
+
 ### Conclusion 
 Transfer learning using the Inception ResNet v2, MobileNet v3 and NASNet were applied to the Food 101 dataset. The top layer of the models was removed and replaced with three additional layers, 2x256 densely connected layers with ReLu followed by a third 101 densely connected layer with SoftMax for predictions. MobileNet v3 had the best accuracy of 48.6% compared to 45.3% for NASNet and 31% for Inception ResNet v2. 
 The MobileNet v2 model was modified so that layers nearest the output could be trainable in steps of 
